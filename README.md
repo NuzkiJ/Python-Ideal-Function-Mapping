@@ -54,18 +54,15 @@ To identify the most suitable ideal function for each training dataset column an
 
 ## Project Structure
 Project Folder/
-│
-├── train.csv
-├── test.csv
-├── ideal.csv
-│
-├── python.ipynb
-├── my_db.db
-├── testx.db
-│
-├── .gitignore
-├── requirements.txt
-├── README.md
+-train.csv
+-test.csv
+-ideal.csv
+-python.ipynb
+-my_db.db
+-testx.db
+-.gitignore
+-requirements.txt
+-README.md
 
 ## Technologies Used
 - Python
