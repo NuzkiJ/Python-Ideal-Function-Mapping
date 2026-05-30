@@ -1,4 +1,4 @@
-Python Assignment: Ideal Function Mapping System (Python + SQL + ML + Visualization)
+# Python Assignment: Ideal Function Mapping System (Python + SQL + ML + Visualization)
 
 ## Project Overview
 
@@ -53,16 +53,16 @@ To identify the most suitable ideal function for each training dataset column an
   - Outliers
 
 ## Project Structure
-Project Folder/
--train.csv
--test.csv
--ideal.csv
--python.ipynb
--my_db.db
--testx.db
--.gitignore
--requirements.txt
--README.md
+Project Folder:
+- train.csv
+- test.csv
+- ideal.csv
+- python.ipynb
+- my_db.db
+- testx.db
+- .gitignore
+- requirements.txt
+- README.md
 
 ## Technologies Used
 - Python
