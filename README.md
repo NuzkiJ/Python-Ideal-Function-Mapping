@@ -78,5 +78,5 @@ Or run in Jupyter Notebook / VS Code
 - Database-stored results
 - Interactive Bokeh graphs
 
-Author
+Author:
 Nuzki J (GitHub: https://github.com/NuzkiJ)
