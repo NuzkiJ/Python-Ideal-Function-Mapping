@@ -1,4 +1,4 @@
-# Python Assignment: Ideal Function Mapping System (Python + SQL + ML + Visualization)
+# Python Assignment: Ideal Function Mapping System 
 
 ## Project Overview
 
@@ -73,11 +73,10 @@ Or run in Jupyter Notebook / VS Code
 
 
 ## Output
-Best-fit ideal function mapping
-Test data classification (mapped vs outliers)
-Database-stored results
-Interactive Bokeh graphs
+- Best-fit ideal function mapping
+- Test data classification (mapped vs outliers)
+- Database-stored results
+- Interactive Bokeh graphs
 
-#Author
-Nuzki J
-GitHub: https://github.com/NuzkiJ
+Author
+Nuzki J (GitHub: https://github.com/NuzkiJ)
