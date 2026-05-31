@@ -58,8 +58,7 @@ Project Folder:
 - test.csv
 - ideal.csv
 - python.ipynb
-- my_db.db
-- testx.db
+- ideal_function_mapping.py
 - .gitignore
 - requirements.txt
 - README.md
