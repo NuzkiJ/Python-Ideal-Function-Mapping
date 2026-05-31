@@ -13,13 +13,12 @@ The system:
 - Visualizes datasets using Bokeh
 - Includes unit testing for validation
 
----
 
 ## Objective
 
 To identify the most suitable ideal function for each training dataset column and use it to map test data points with minimal deviation, ensuring accurate functional approximation.
 
----
+
 
 ## Methodology
 
@@ -63,29 +62,15 @@ Project Folder:
 - requirements.txt
 - README.md
 
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- SQLAlchemy (ORM)
-- SQLite
-- Scikit-learn (MSE calculation)
-- Bokeh (visualization)
-- Unittest (testing)
-
 ## How to Run the Project
 
-
-
-```bash
+Step 1: Install dependencies
 pip install -r requirements.txt
 
 Step 2: Run the notebook
 Open: python.ipynb
 Or run in Jupyter Notebook / VS Code
 
-Step 3: Run tests
-python -m unittest discover
 
 Output
 Best-fit ideal function mapping
