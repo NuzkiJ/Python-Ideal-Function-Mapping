@@ -72,12 +72,12 @@ Open: python.ipynb
 Or run in Jupyter Notebook / VS Code
 
 
-Output
+## Output
 Best-fit ideal function mapping
 Test data classification (mapped vs outliers)
 Database-stored results
 Interactive Bokeh graphs
 
-Author
+#Author
 Nuzki J
 GitHub: https://github.com/NuzkiJ
